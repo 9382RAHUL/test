@@ -1,5 +1,0 @@
-{{#user}
-Name: RAHUL MODAK
-Skills: HTML, CSS, JS, React js,node.js,express.js
-Email: rahulmodak492@gmail.com
-{{/user}}
